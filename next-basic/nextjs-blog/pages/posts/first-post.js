@@ -12,6 +12,7 @@ export default function FirstPost() {
       </h2>
       {/* without resize */}
       {/* <img src="/images/profile.jpg" alt="yuss-photo" /> */}
+
       {/* error */}
       {/* const YourComponent = () => (
       <Image
